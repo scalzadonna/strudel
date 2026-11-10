@@ -1,0 +1,8 @@
+# Audio clips stay local (not ours to publish)
+clips/samples/
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.webm
