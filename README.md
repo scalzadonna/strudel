@@ -58,3 +58,15 @@ for how to prepare and load it.
 1. Open <https://strudel.cc>.
 2. Paste the contents of a `.js` file into the editor.
 3. Press **Ctrl+Enter** (Cmd+Enter on a Mac) to play, and **Ctrl+.** to stop.
+
+## License
+
+© 2026 Santiago Scalzadonna. This work is licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt it for any purpose, including commercial use, as long
+as you give appropriate credit, link to the license, and indicate if you made
+changes. See [`LICENSE`](LICENSE) for the full legal text.
+
+This license covers the material in this repository only. Strudel itself is
+licensed separately under the AGPL-3.0, and the audio clips used in `clips/` are
+not included or licensed here.
